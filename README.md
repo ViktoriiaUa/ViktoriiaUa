@@ -30,7 +30,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa&theme=vue-dark)](https://git.io/streak-stats)
 
 ---
-
+ 
 <a href="https://github.com/ViktoriiaUa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktoriiaUa&count_private=true" /> 
 </a>
