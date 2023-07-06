@@ -2,6 +2,11 @@
  *Сongratulations* 👋 
  *At the age of 30, I resigned from government public authorities in order to work on what I like!* 🚀
  
+ <p align="center">
+  <samp>
+    At the age of 30, I resigned from government public authorities in order to work on what I like! 🚀
+    </samp>
+</p>
 
 - ##### Technologies & Skills
   
