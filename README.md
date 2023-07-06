@@ -14,7 +14,8 @@
 <table width="100%" align="center">
 	<thead>
 		<th span="col"> <samp>Project ⚙️ </samp></th>
-		<th span="col"> <samp>Stars ⭐ </samp></th>
+		<td span="col"> <samp>Stars ⭐ </samp></td>
 	</thead>
 <tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
+<td>A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.</td>
