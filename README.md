@@ -20,7 +20,3 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
 
-###### 📈 My Streak Stats: 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa&theme=vue-dark)](https://git.io/streak-stats)
-
