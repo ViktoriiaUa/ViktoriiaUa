@@ -36,3 +36,6 @@
 
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa)](https://git.io/streak-stats)
+---
+
+<a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
