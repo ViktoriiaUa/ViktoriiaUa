@@ -4,7 +4,7 @@
  ##### *https://andriivnav.if.ua/portfolio_2023/*
 ---
 
-##### mailbox: How to contact me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)     [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
+##### 📫 How to contact me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)     [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
 
 ---
 
