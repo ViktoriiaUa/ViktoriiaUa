@@ -13,10 +13,9 @@
 
 <table width="100%" align="center">
 	<thead>
-		<td span="col"> <samp>Stars ⭐ </samp></td>
-		<th span="col"> <samp>Project ⚙️ </samp></th>
-		
+		<td span="col"> <samp> Connect with me: </samp></td>
+		<th span="col"> <samp>Project ⚙️ </samp></th>	
 	</thead>
 <tr>
-			<th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
+			<th span="row"> [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-white?style=flat&logo=Telegram&logoColor=dark)](https://t.me/La_vie_chocolat) </th>
 <td>A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.</td>
