@@ -1,7 +1,7 @@
 ### FRONTEND DEVELOPER 
 
 #### *Сongratulations* 👋 
-#### *At the age of 30, I resigned from government agencies in order to work on what I like!* 🚀
+#### *At the age of 30, I resigned from government public authorities in order to work on what I like!* 🚀
 
  #### https://andriivnav.if.ua/portfolio_2023/
 ---
