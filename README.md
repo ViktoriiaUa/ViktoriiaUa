@@ -2,7 +2,7 @@
  
  <p align="center">
   <samp>
-    Сongratulations! At the age of 30, I resigned from government public authorities in order to work on what I like! 
+    Сongratulations! At the age of 30, I resigned from government public authorities in order to work on what I like! :
     </samp>
 </p>
 <p align="center"> <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a></p>
