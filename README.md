@@ -1,14 +1,14 @@
-# Сongratulations 👋
+# Сongratulations 👋 At the age of 30, I resigned from government agencies in order to work on what I like!
 # FRONTEND DEVELOPER junior
  
  #### https://andriivnav.if.ua/portfolio_2023/ViktoriiaS_frontenddeveloper.pdf
  #### https://andriivnav.if.ua/portfolio_2023/
 ---
-### :mailbox: Як зв'язатись зі мною:   [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)   [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
+### :mailbox: How to contact me:   [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)   [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
 
 ---
 
-### 💻 Технології:
+### 💻 Technologies:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -19,12 +19,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
- 
 </div>
 
 ---
 
-### 🛠 Інструменти:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
