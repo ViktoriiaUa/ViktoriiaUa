@@ -16,3 +16,5 @@
 		<th span="col"> <samp>Project ⚙️ </samp></th>
 		<th span="col"> <samp>Stars ⭐ </samp></th>
 	</thead>
+<tr>
+			<th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
