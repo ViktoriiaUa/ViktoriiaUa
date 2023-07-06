@@ -1,4 +1,4 @@
-# Привіт, я Вікторія 👋
+# Сongratulations 👋
 # FRONTEND DEVELOPER junior
  
  #### https://andriivnav.if.ua/portfolio_2023/ViktoriiaS_frontenddeveloper.pdf
