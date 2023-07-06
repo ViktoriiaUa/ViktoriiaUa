@@ -38,4 +38,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa)](https://git.io/streak-stats)
 ---
 
-<a target="_blank" href="https://thomasgeorgethomas.ml/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+### My skills include
+<p align="center">
+	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
+</p>
