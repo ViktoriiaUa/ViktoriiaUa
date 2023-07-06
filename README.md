@@ -32,9 +32,6 @@
 ---
  
 <a href="https://github.com/ViktoriiaUa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ViktoriiaUa&count_private=true" /> 
-</a>
-<a href="https://github.com/ViktoriiaUa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriiaUa" />
 </a>
 
