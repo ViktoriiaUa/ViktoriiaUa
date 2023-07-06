@@ -17,9 +17,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="20" height="20"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="20" height="20"/>&nbsp;
 </div>
-
----
-
 #### 🛠 Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="20" height="20"/>&nbsp;
