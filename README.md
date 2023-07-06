@@ -38,6 +38,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa)](https://git.io/streak-stats)
 ---
 
-### My Recent posts on Medium!</b>
+### My posts </b>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
+<a target="_blank" href="#"><img src="#" alt="Recent Article on medium 1"></img></a>
