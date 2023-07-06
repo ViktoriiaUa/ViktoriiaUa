@@ -39,5 +39,7 @@
 ---
 
 ### My posts </b>
+[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
+[![tech-stack.tools](https://svg.bookmark.style/api?url=https://tech-stack.tools/&mode=dark&style=horizontal)](https://tech-stack.tools)
 
-<a target="_blank" href="#"><img src="#" alt="Recent Article on medium 1"></img></a>
+
