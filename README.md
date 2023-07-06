@@ -32,7 +32,7 @@
 </div>
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa&theme=merko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa&theme=vue-dark)](https://git.io/streak-stats)
 ---
 #### My posts </b>
 
