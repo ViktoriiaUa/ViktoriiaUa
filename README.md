@@ -7,4 +7,4 @@
 </p>
 
 
-<samp> Connect with me: </samp> [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  . <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> .
+<samp> Connect with me: </samp> [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-dark?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  . <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> .
