@@ -5,6 +5,7 @@
 
  #### https://andriivnav.if.ua/portfolio_2023/
 ---
+
 #### :mailbox: How to contact me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)     [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
 
 ---
@@ -18,7 +19,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
 </div>
+
 ---
+
 #### 🛠 Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
