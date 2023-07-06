@@ -4,11 +4,11 @@
  ##### *https://andriivnav.if.ua/portfolio_2023/*
 ---
 
-#### :mailbox: How to contact me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)     [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
+###№№ :mailbox: How to contact me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)     [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
 
 ---
 
-#### 🛠 Technologies & Skills
+####№№ 🛠 Technologies & Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-#### 📈 My Streak Stats: 
+####№№ 📈 My Streak Stats: 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa&theme=vue-dark)](https://git.io/streak-stats)
 
