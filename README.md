@@ -2,9 +2,6 @@
  *Сongratulations* 👋 
  *At the age of 30, I resigned from government public authorities in order to work on what I like!* 🚀
  
- ___
-
-- 📫 Connect with me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  💻 <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> 
 
 - 🛠 Technologies & Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
@@ -19,4 +16,4 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-
+- 📫 Connect with me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  💻 <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> 
