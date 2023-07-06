@@ -1,6 +1,6 @@
 ### FRONTEND DEVELOPER 
 #### *Сongratulations* 👋 
-#### *At the age of 30, I resigned from government public authorities in order to work on what I like!* 🚀
+#### *At the age of 30, I resigned from government public authorities 👩‍💻  in order to work on what I like!* 🚀
  #### *https://andriivnav.if.ua/portfolio_2023/*
 ---
 
@@ -31,8 +31,5 @@
 
 ---
  
-<a href="https://github.com/ViktoriiaUa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViktoriiaUa" />
-</a>
 
 
