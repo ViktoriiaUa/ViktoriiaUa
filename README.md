@@ -1,4 +1,4 @@
- <samp> FRONTEND DEVELOPER  </samp>
+  <p align="center"><samp> FRONTEND DEVELOPER  </samp></p>
  
  <p align="center">
   <samp>
