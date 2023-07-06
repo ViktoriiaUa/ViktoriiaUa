@@ -6,9 +6,6 @@
 
 - 📫 Connect with me:      [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  💻 <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> 
 
-##### <a href="https://andriivnav.if.ua/portfolio_2023/">My Site</a> 
-
-
 - 🛠 Technologies & Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
