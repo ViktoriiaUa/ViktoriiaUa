@@ -17,5 +17,4 @@
 		<th span="col"> <samp>Project ⚙️ </samp></th>	
 	</thead>
 <tr>
-			<th span="row"> [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-white?style=flat&logo=Telegram&logoColor=dark)](https://t.me/La_vie_chocolat) </th>
-<td>A quickstart-friendly TypeScript template with comprehensive formatting, linting, releases, testing, and other great tooling built-in.</td>
+	<td><p align="center"> <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> </p></td>
