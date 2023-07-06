@@ -14,7 +14,7 @@
 <table width="100%" align="center">
 	<thead>
 		<td span="col"> <samp> Connect with me: </samp></td>
-		<th span="col"> <samp>Project ⚙️ </samp></th>	
+		<th span="col"> <samp><a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> </p></samp></th>	
 	</thead>
 <tr>
-	<td><p align="center"> <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> </p></td>
+	<td><p align="center">   </td>
