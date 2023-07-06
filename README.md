@@ -38,7 +38,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa)](https://git.io/streak-stats)
 ---
 
-### My skills include
-<p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" />
-</p>
+### My Recent posts on Medium!</b>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas-george-thomas/0" alt="Recent Article on medium 1"></img></a>
