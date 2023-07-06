@@ -1,14 +1,12 @@
 #### FRONTEND DEVELOPER 
- *Сongratulations* 👋 
- *At the age of 30, I resigned from government public authorities in order to work on what I like!* 🚀
  
  <p align="center">
   <samp>
-    At the age of 30, I resigned from government public authorities in order to work on what I like! 🚀
+    Сongratulations 👋  At the age of 30, I resigned from government public authorities in order to work on what I like! 🚀
     </samp>
 </p>
 
-- ##### Technologies & Skills
+ <samp> - ##### Technologies & Skills <samp>
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
