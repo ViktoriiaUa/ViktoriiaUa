@@ -13,8 +13,9 @@
 
 <table width="100%" align="center">
 	<thead>
-		<th span="col"> <samp>Project ⚙️ </samp></th>
 		<td span="col"> <samp>Stars ⭐ </samp></td>
+		<th span="col"> <samp>Project ⚙️ </samp></th>
+		
 	</thead>
 <tr>
 			<th span="row"><a href="https://github.com/JoshuaKGoldberg/template-typescript-node-package">template-typescript-node-package</a></th>
