@@ -1,5 +1,7 @@
-# Сongratulations 👋 At the age of 30, I resigned from government agencies in order to work on what I like!
 # FRONTEND DEVELOPER junior
+
+# Сongratulations 👋 At the age of 30, I resigned from government agencies in order to work on what I like!
+---
  
  #### https://andriivnav.if.ua/portfolio_2023/ViktoriiaS_frontenddeveloper.pdf
  #### https://andriivnav.if.ua/portfolio_2023/
