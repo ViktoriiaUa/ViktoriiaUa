@@ -11,10 +11,8 @@
  <samp> Connect with me: </samp> [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-white?style=flat&logo=Telegram&logoColor=dark)](https://t.me/La_vie_chocolat) 
 
 
-<table width="100%">
+<table width="100%" align="center">
 	<thead>
-		<th span="col">Project ⚙️</th>
-		<th span="col">Description 📝</th>
-		<th span="col">Role 🧑‍🏭</th>
-		<th span="col">Stars ⭐</th>
+		<th span="col"> <samp>Project ⚙️ </samp></th>
+		<th span="col"> <samp>Stars ⭐ </samp></th>
 	</thead>
