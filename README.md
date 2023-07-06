@@ -31,9 +31,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
 </div>
 ---
-#### 📈 My Streak Stats 
+
+#### 📈 My Streak Stats: 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ViktoriiaUa&theme=vue-dark)](https://git.io/streak-stats)
+
 ---
 
 
