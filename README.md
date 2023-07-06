@@ -20,4 +20,4 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-<p align="center"> <samp> Connect with me:   </samp></p>    [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  💻 <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> 
+<p align="center"> <samp> Connect with me   </samp></p>    :[![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)  💻 <a href="https://andriivnav.if.ua/portfolio_2023/">MySite</a> 
