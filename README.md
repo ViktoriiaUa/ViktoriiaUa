@@ -1,7 +1,8 @@
 # Привіт, я Вікторія 👋
- FRONTEND DEVELOPER junior
- ####https://andriivnav.if.ua/portfolio_2023/ViktoriiaS_frontenddeveloper.pdf
- ####https://andriivnav.if.ua/portfolio_2023/
+# FRONTEND DEVELOPER junior
+ 
+ #### https://andriivnav.if.ua/portfolio_2023/ViktoriiaS_frontenddeveloper.pdf
+ #### https://andriivnav.if.ua/portfolio_2023/
 ---
 ### :mailbox: Як зв'язатись зі мною:   [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/La_vie_chocolat)   [![UkrNet Badge](https://img.shields.io/badge/-Ukr.net-green?style=flat&logo=UkrNet&logoColor=white)](mailto:andriivna_v@ukr.net)  
 
