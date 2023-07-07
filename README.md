@@ -11,7 +11,7 @@
 
 
 <samp> My name is Victoria, I am 30 years old. I live in the city of Ivano-Frankivsk, Ukraine. 
-I have a BA (бакалавр) або ж MA (магістр) degree in Psychology Studies. As well as I have an additional education in the PC Operations (Accountant) field of study. 
+I have a BA degree in Psychology Studies. As well as I have an additional education in the PC Operations (Accountant) field of study. 
 One and a half years ago, I resigned from my job as a government official and decided to change my professional path radically and try myself out in IT field. Since I am always learning new things, for me this was an opportunity to do what really gets my interest and attention, rather than a difficult challenge. 
 
 To begin with, my goal was to work as a web designer. Meanwhile I was actively looking for courses. During the searching process, I was offered training with a mentor. It included the entire prompt complex of knowledge, starting from the basics of programming and ending with full-stack development. The main focus in learning was put on web design. 
