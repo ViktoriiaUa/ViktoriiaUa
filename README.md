@@ -22,4 +22,4 @@ I value support and kindness in all areas of my life. It is crucial for me to be
 <samp>As psychologists say, "we all come from childhood." I was involved in the field of IT from the age of 4, I made a toy computer and worked with a great concentration. At the age of 17, I bought my first laptop with the first saved salary. At 19, I reinstalled Windows for the first time. Since I was 23 years old, I have been actively working and helping students with their research papers, I run several business pages in social networks. I am engaged in the design of advertising banners and marketing as well.
 IT is the field to which I unconsciously went all my conscious life. Now I know, I can and I want to be useful. I will be happy to cooperate.</samp>
 
-<samp>Thank you.</samp>
+<samp> Thank you.
