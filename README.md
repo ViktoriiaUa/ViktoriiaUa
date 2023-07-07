@@ -9,7 +9,7 @@
 </p>
 
 
- <samp align="center"> Connect with me:  [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-white?style=flat&logo=Telegram&logoColor=dark)](https://t.me/La_vie_chocolat) </samp>
+ <samp> Connect with me:  [![Telegram Badge](https://img.shields.io/badge/-ViktoriiaSmith-white?style=flat&logo=Telegram&logoColor=dark)](https://t.me/La_vie_chocolat) </samp>
 
 
 
